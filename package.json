@@ -1,5 +1,6 @@
 {
   "name": "noderunner",
+  "author": "siva kumar boyapati",
   "version": "1.0.0",
   "description": "Node ninja runner is a bash script to run Node.js servers. It will automagically restart crashed servers, and will monitor memory usage for you. To prevent out-of-control servers, you can:",
   "main": "index.js",
